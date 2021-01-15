@@ -5,3 +5,5 @@ Bharath is the master -1
 Bharath is the master in the git -2
 
 Bharathbbc1 -3 || Bharathbbc2 -4
+
+bharath is the master blaster --->idea
