@@ -1,9 +1,7 @@
 my name is bharath
 
-bharath is the master 
+Bharath is the master -1 
 
-bharath is the master in the git
+Bharath is the master in the git -2
 
-bharathbbc1
-
-bharathbbc2
+Bharathbbc1 -3 || Bharathbbc2 -4
